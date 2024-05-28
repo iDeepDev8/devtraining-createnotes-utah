@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image>8db83737839a4210ec69e330ceaad376</background_image>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>CreateNotes Home - Container 1</name>
+        <order>1</order>
+        <semantic_tag>main</semantic_tag>
+        <sp_page display_value="createnotes_home">a3d773f3839a4210ec69e330ceaad3c2</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-28 10:29:07</sys_created_on>
+        <sys_id>2bd773f3839a4210ec69e330ceaad3c5</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>CreateNotes Home - Container 1</sys_name>
+        <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
+        <sys_update_name>sp_container_2bd773f3839a4210ec69e330ceaad3c5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-28 10:33:00</sys_updated_on>
+        <title>Create Notes</title>
+        <width>container</width>
+    </sp_container>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#0</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>background_image</file_name>
+        <hash>80886755e66219cbb3071b5b1a9a0f7797a190ad1b93f474f8c1660ed10650f5</hash>
+        <image_height>200</image_height>
+        <image_width>200</image_width>
+        <size_bytes>619</size_bytes>
+        <size_compressed>124</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-28 10:32:47</sys_created_on>
+        <sys_id>8db83737839a4210ec69e330ceaad376</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-28 10:32:47</sys_updated_on>
+        <table_name>ZZ_YYsp_container</table_name>
+        <table_sys_id>2bd773f3839a4210ec69e330ceaad3c5</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="background_image" sys_id="8db83737839a4210ec69e330ceaad376">8db83737839a4210ec69e330ceaad376</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-28 10:32:47</sys_created_on>
+        <sys_id>cdb83737839a4210ec69e330ceaad376</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>6wzwc+flkuJiYGDg9fRwCQLSJ0CYgwlIKllZngRSLOmOvo4MDBv7uf8ksjIwMCl5ujiGVMS9vdAIlGQ4vOBnsPyT1oDEAw2MzGw8EgYJo4yRzfhgYHB1OgMja7rQWlAC8XT1c1nnlNAEAJMCUL9rAgAA</data>
+        <length>152</length>
+        <position>1</position>
+        <sys_attachment display_value="background_image" sys_id="8db83737839a4210ec69e330ceaad376">8db83737839a4210ec69e330ceaad376</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-28 10:32:47</sys_created_on>
+        <sys_id>41b83737839a4210ec69e330ceaad377</sys_id>
+    </sys_attachment_doc>
+</record_update>
